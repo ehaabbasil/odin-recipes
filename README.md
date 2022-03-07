@@ -1,2 +1,2 @@
 # odin-recipes
-Repository for HTML and CSS concepts with practice projects
+Repository for HTML and CSS concepts by creating projects
